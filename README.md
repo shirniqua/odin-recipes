@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in the odin project course. The project requires that I use HTML to create a recipe book. This will test the HTMLS tags I learnt as well as the use of git commands using terminal.
