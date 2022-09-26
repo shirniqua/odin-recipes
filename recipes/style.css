@@ -1,9 +1,14 @@
 body {
     background-color: #ffebcd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1{
     color: #ffffff;
     text-align: center;
     font-size: 48px;
+}
+
+li {
+    font-size: 20px;
 }
